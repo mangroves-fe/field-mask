@@ -1,4 +1,4 @@
-import { FieldMask } from '.'
+import * as FieldMask from '.'
 
 describe('getMaskFromObject', () => {
   const object = {
