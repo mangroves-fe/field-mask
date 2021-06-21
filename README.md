@@ -110,3 +110,7 @@ const allowedMask = ['a', 'c.d', 'x.y.z']
 const filteredMask = FieldMask.filterMaskByMask(mask, allowedMask)
 console.log(filteredMask) // ['a.b', 'c.d']
 ```
+
+# Reference
+
+- [FieldMask](https://developers.google.com/protocol-buffers/docs/reference/google.protobuf#fieldmask)
