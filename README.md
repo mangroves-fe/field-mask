@@ -6,6 +6,20 @@ A mangroves-fe project.
 
 # Install
 
+## yarn
+
+```bash
+yarn add @mangroves/field-mask
+```
+
+## import
+
+```typescript
+import { getMaskFromObject } from '@mangroves/field-mask'
+// Or
+import * as FieldMask from '@mangroves/field-mask'
+```
+
 # Usage
 
 ## getMaskFromObject
