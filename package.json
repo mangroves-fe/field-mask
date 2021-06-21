@@ -24,6 +24,10 @@
     "field mask",
     "update mask"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mangroves-fe/field-mask"
+  },
   "author": "mangroves-fe",
   "license": "MIT",
   "husky": {
