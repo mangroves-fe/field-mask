@@ -8,7 +8,7 @@
   "scripts": {
     "build": "rm -rf ./dist && rollup -c --configPlugin typescript",
     "test": "jest --coverage",
-    "prepublishOnly": "npm run test"
+    "prepublishOnly": "npm run test && npm run build"
   },
   "exports": {
     ".": {
