@@ -5,6 +5,7 @@
   "main": "dist/field-mask.umd.js",
   "module": "dist/field-mask.es.js",
   "types": "dist/types",
+  "sideEffects": false,
   "scripts": {
     "build": "rm -rf ./dist && rollup -c --configPlugin typescript",
     "test": "jest --coverage",
