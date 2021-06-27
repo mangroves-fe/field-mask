@@ -1,5 +1,7 @@
 # field-mask
 
+[![codecov](https://codecov.io/gh/mangroves-fe/field-mask/branch/main/graph/badge.svg?token=PLW5YE8FTZ)](https://codecov.io/gh/mangroves-fe/field-mask)
+
 FieldMask hepler which offers some utils to get field mask or update object.
 
 A mangroves-fe project.
