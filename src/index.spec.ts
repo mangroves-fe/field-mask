@@ -259,7 +259,7 @@ describe('filterMaskByMask', () => {
 
   it('Empty allowed mask', () => {
     const mask = ['f.a.b.c', 'f.x.y.z', 'f.1.2.3.4']
-    const allowedMask = []
+    const allowedMask: string[] = []
 
     const filteredMask = FieldMask.filterMaskByMask(mask, allowedMask)
     expect(filteredMask).toEqual([])
