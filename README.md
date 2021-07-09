@@ -1,6 +1,7 @@
 # field-mask
 
 [![codecov](https://codecov.io/gh/mangroves-fe/field-mask/branch/main/graph/badge.svg?token=PLW5YE8FTZ)](https://codecov.io/gh/mangroves-fe/field-mask)
+[![Node.js CI](https://github.com/mangroves-fe/field-mask/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/mangroves-fe/field-mask/actions/workflows/node.js.yml)
 
 FieldMask hepler which offers some utils to get field mask or update object.
 
