@@ -4,7 +4,7 @@
   "description": "Field mask helper",
   "main": "dist/field-mask.umd.js",
   "module": "dist/field-mask.es.js",
-  "types": "dist/index.d.ts",
+  "types": "index.d.ts",
   "sideEffects": false,
   "scripts": {
     "build": "node ./scripts/build.js",
@@ -18,8 +18,8 @@
     }
   },
   "files": [
-    "src",
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "keywords": [
     "field mask",
