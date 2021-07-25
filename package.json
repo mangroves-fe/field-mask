@@ -1,6 +1,6 @@
 {
   "name": "@mangroves/field-mask",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Field mask helper",
   "main": "dist/field-mask.umd.js",
   "module": "dist/field-mask.es.js",
